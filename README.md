@@ -1,8 +1,8 @@
 # Evento Tech 2025 - Site para divulgação de eventos
 
-![image]()
+![image](https://github.com/user-attachments/assets/91f1dc4d-88ca-4607-9f09-cb825802ae94)
 
-Link do projeto: https://e-tech.vercel.app/
+Link do projeto: https://e-tech-rouge.vercel.app/
 
 ## 📱 Sobre o Projeto
 
