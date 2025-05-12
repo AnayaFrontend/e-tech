@@ -43,11 +43,11 @@ Criar uma plataforma digital que não apenas divulgue o evento, mas também enga
 ## 🎨 Design
 
 - **Paleta de Cores**:
-    --background: #EEEEEE;
-    --primaria: #0F044C;
-    --secundaria: #141E61;
-    --subtitulo: #25D366;
-    --titulo: #0F172A;
+  - background: #EEEEEE;
+  - primaria: #0F044C;
+  - secundaria: #141E61;
+  - subtitulo: #25D366;
+  - titulo: #0F172A;
 
 - **Tipografia**:
   - Fonte principal: Poppins;
@@ -57,16 +57,16 @@ Criar uma plataforma digital que não apenas divulgue o evento, mas também enga
 ## 📱 Recursos para responsividade
 
 O site foi desenvolvido com foco em responsividade, utilizando:
-- Unidades relativas (rem, vw, vh);
-- Media queries para breakpoints específicos;
-- Layout fluido com Flexbox e Grid;
-- Imagens otimizadas e responsivas;
-- Fontes escaláveis com clamp().
+ - Unidades relativas (rem, vw, vh);
+ - Media queries para breakpoints específicos;
+ - Layout fluido com Flexbox e Grid;
+ - Imagens otimizadas e responsivas;
+ - Fontes escaláveis com clamp().
 
 ## 🚀 Performance
 
-- Imagens otimizadas do Unsplash;
-- Carregamento assíncrono de recursos;
-- CSS e JavaScript minificados;
-- Estrutura HTML semântica;
-- Animações otimizadas para performance.
+ - Imagens otimizadas do Unsplash;
+ - Carregamento assíncrono de recursos;
+ - CSS e JavaScript minificados;
+ - Estrutura HTML semântica;
+ - Animações otimizadas para performance.
